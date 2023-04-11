@@ -1,2 +1,2 @@
 # d2l_notes
-Dive into Deep Learning Notes
+动手学深度学习 Pytorch版 个人实践
